@@ -11,14 +11,14 @@
     {
       "version": "^0.25.0",
       "id": "codegen",
-      "downloadIfMissing": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.22.0/Codegen.qmod"
+      "downloadIfMissing": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.25.0/Codegen.qmod"
     }
   ],
   "modFiles": [
     "libcustom-json-data.so"
   ],
   "libraryFiles": [
-    "libbeatsaber-hook_3_9_0.so"
+    "libbeatsaber-hook_3_10_0.so"
   ],
   "fileCopies": [],
   "copyExtensions": []
